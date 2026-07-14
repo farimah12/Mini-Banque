@@ -61,12 +61,9 @@ git clone https://github.com/farimah12/Mini-Banque.git
 
 > ⚠️ Projet académique — base de données locale et identifiants de démonstration uniquement, à ne jamais réutiliser en production.
 
-## 📸 Aperçu
-
-*(ajoute ici une ou deux captures d'écran de l'application une fois en ligne)*
 
 ## 👩‍💻 Auteure
 
-**Adji Farimata Cissé**
+**Adji Farimata CISSE**
 Étudiante en Génie Logiciel — ISI, Dakar
 📧 adjifarimahcisse@gmail.com
